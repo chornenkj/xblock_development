@@ -1,0 +1,13 @@
+setup.py
+colla/__init__.py
+colla/colla.py
+colla/static/README.txt
+colla/static/css/colla.css
+colla/static/html/colla.html
+colla/static/js/src/colla.js
+colla_xblock.egg-info/PKG-INFO
+colla_xblock.egg-info/SOURCES.txt
+colla_xblock.egg-info/dependency_links.txt
+colla_xblock.egg-info/entry_points.txt
+colla_xblock.egg-info/requires.txt
+colla_xblock.egg-info/top_level.txt
